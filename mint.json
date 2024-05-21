@@ -32,12 +32,12 @@
       "name": "Privacy Policy",
       "icon": "user-lock",
       "iconType": "duotone",
-      "url": "https://docs.yukibot.online/legal/privacy"
+      "url": "https://docs.yukibot.online/legal/privacy/index"
     },
     {
       "name": "Terms of Service",
       "icon": "shield-halved",
-      "url": "https://docs.yukibot.online/legal/tos"
+      "url": "https://docs.yukibot.online/legal/tos/index"
     }
   ],
   "navigation": [

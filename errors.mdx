@@ -1,21 +1,47 @@
 ---
 title: 'Common Errors'
-description: 'Common errors you may see while using the bot.'
+description: 'This page is created for users to quickly address problems that is on their end.'
 ---
 
-## What's this?
-This page is created for users to quickly address problems that is on their end.
-
 ## How to Troubleshoot Errors
+Sometimes, errors or problems aren't caused by Yuki but rather than the user misconfigured something somewhere which lead to the bot not executing of what it should do. The bot has two diagnostics feature added so you or your server members are able to view what and how it went wrong.
+
+
+## Permissions Problems
 <Warning>It's never a good idea to give the bot **Administrator** (**8**), as that permission is dangerous and the bot will not support it!</Warning>
 
-
-You should test your permissions are setup on the bot. To do so:
+You should test your permissions are set on bot. To do so:
 ```
 y!test
 ```
 
 This will return a table that is just been created for you. This table is useful when it comes to reporting bugs and other problems.
 
-The table looks something like this:
-<img height="200" src="/path/image.jpg" />
+<img height="200" src="/images/permission.png" />
+
+
+This table comes handy when the issue or problem you have been facing was a problem with your own server and it was something that not Yuki's fault.
+
+## Music Problems
+<Info>When you first play a song, it may take 2-5 seconds for the server node to start playing the song. You only join our Discord server if the bot is taking longer than 5 seconds to play the song.</Info>
+
+When playing a music with Yuki, you might yourself that you won't hear any sound and no matter what you try, nothing seems to play.
+
+You can check if any of the server nodes that are responsible for playing sound is up, or the server node is having a problem or offline in your server's region.
+
+```
+y!health nodes
+```
+
+<img height="200" src="/images/nodes.png" />
+
+
+This command will return a diagnostics of the server nodes. If any of the `Status` says **`Disconnected`** that means that server node is having an outage. You must join the Discord server so the Yuki Dev team can fix it up.
+
+
+
+
+
+
+
+
