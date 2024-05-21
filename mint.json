@@ -26,12 +26,12 @@
       "name": "Privacy Policy",
       "icon": "user-lock",
       "iconType": "duotone",
-      "url": "https://docs.yukibot.online/legal/privacy-policy"
+      "url": "https://docs.yukibot.online/legal/privacy"
     },
     {
       "name": "Terms of Service",
       "icon": "shield-halved",
-      "url": "https://docs.yukibot.online/legal/terms-of-service"
+      "url": "https://docs.yukibot.online/legal/tos"
     }
   ],
   "navigation": [
