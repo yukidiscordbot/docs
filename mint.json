@@ -21,6 +21,12 @@
       "url": "https://discord.gg/CbVbYsv"
     }
   ],
+    "tabs": [
+    {
+      "name": "Common Errors",
+      "url": "errors"
+    }
+  ],
   "anchors": [
     {
       "name": "Privacy Policy",
