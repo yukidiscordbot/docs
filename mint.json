@@ -11,8 +11,8 @@
     "light": "#07C983",
     "dark": "#0D9373",
     "anchors": {
-      "from": "#0D9373",
-      "to": "#07C983"
+      "from": "#4c0d93",
+      "to": "#5107c9"
     }
   },
   "topbarLinks": [
@@ -84,8 +84,7 @@
     }
   ],
   "footerSocials": {
-    "x": "https://x.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://www.linkedin.com/company/mintsearch"
+    "x": "https://x.com/YukiDiscordBot",
+    "github": "https://github.com/yukidiscordbot"
   }
 }
